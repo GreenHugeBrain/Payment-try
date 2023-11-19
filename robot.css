@@ -1,0 +1,9 @@
+header h1 {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: grid;
+    justify-content: center;
+}

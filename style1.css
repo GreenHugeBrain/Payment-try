@@ -1,0 +1,30 @@
+.buy {
+    transform: translateX(-20px);
+}
+.button {
+     margin-top: -10px;
+     transform: translateX(26px);
+     color: rgb(1, 1, 2);
+     width: 100px;
+     height: 30px;
+     border-color: rgb(47, 0, 255);
+     border-radius: 10px;
+    
+
+    
+}
+
+.opisanie {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Noto Sans Georgian', sans-serif;
+    margin-top: -270px;
+    transform: translateX(200px);
+}
+.sverxu {
+    width: 200px;
+    height: 100px;
+    margin-top: -150px;
+    transform: translateX(30px);
+    
+}
